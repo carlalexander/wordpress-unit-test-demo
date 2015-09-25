@@ -10,6 +10,14 @@ Author URI: https://carlalexander.ca
 
 namespace UnitTestDemo;
 
+/**
+ * Get a plugin option from the WordPress database.
+ * 
+ * @param string $name
+ * @param mixed  $default
+ * 
+ * @return mixed
+ */
 function demo_get_option($name, $default = null)
 {
     $option = get_option('demo_' . $name, $default);

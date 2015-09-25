@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WordPress Unit Test Demo
-Description: Demonstrates how to build a unit tests with WordPress
+Description: Demonstrates how to build unit tests with WordPress
 Author: Carl Alexander
 Author URI: https://carlalexander.ca
 */

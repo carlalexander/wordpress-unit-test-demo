@@ -1,7 +1,7 @@
 {
     "name": "carlalexander/unit-tested-plugin",
     "type": "project",
-    "description": "Demonstrates how to build a unit tested plugin",
+    "description": "Demonstrates how to build unit tests with WordPress",
     "homepage": "https://carlalexander.ca",
     "license": "GPL-3.0+",
     "require": {

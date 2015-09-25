@@ -1,5 +1,4 @@
 <?php
-# tests/test-demo.php
 
 namespace UnitTestDemo;
 

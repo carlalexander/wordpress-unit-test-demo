@@ -28,10 +28,5 @@ class DemoTest extends \PHPUnit_Framework_TestCase
 
         $this->assertEquals(array('bar'), demo_get_option('foo', array()));
     }
-
-//    public function test_get_unit_tested_option()
-//    {
-//        $this->assertFalse(get_unit_tested_option('foo'));
-//    }
 }
 
